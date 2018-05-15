@@ -5,27 +5,5 @@ class Dog
     @breed = breed
   end  
   
-  # def breed=(breed)
-  #   @breed = breed
-  # end
-  
-  # def breed
-  #   @breed
-  # end  
 
 end
-
-
-
-
-# def initialize(breed, breed = "mutt")
-#     @breed = breed
-#   end
-  
-#   def breed=(breed)
-#     @breed = breed
-#   end
-  
-#   def breed
-#     @breed
-#   end  
